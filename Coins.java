@@ -6,7 +6,7 @@ public class Coins {
                 side = "tail";
                 numberOfHeads ++;
             } else {
-                side = "head";
+                side = "nope";
                 numberOfTails ++;
             }
         }
