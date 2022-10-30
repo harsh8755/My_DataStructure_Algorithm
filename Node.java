@@ -174,7 +174,7 @@ public class Node {
     }
     public static void main(String[] args) {
         SinglyLinkedList list = new SinglyLinkedList();
-        list.insertAtEnd(new Node(4));
+        list.insertAtEnd(new Node(7));
         list.insertAtEnd(new Node(7));
         list.insertAtEnd(new Node(686));
         list.insertAtEnd(new Node(98));
